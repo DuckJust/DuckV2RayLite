@@ -44,6 +44,6 @@
 ابتدا پروژه را کلون کنید و پکیج‌های مورد نیاز پایتون را نصب نمایید:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SetoV2rayLite.git
-cd SetoV2rayLite
+git clone https://github.com/YOUR_USERNAME/DuckV2RayLite.git
+cd DuckV2RayLite
 pip install -r requirements.txt
